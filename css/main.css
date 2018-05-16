@@ -305,11 +305,11 @@ div.logo {
     float: left;
 }
 div.logo img {
-    width: 100%;
+    width: 28%;
 }
 @media only screen and (min-width: 768px) {
     div.logo {
-    width: 33%;
+    width: 20%;
     
    }
 }
